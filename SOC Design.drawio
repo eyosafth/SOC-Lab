@@ -78,8 +78,8 @@
         <mxCell id="pfmqZZBvVM5CJN0XKTQy-42" value="Win 11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pfmqZZBvVM5CJN0XKTQy-43" value="WinSrvr2k19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="70" width="90" height="30" as="geometry" />
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-43" value="WinSrvr2k19 AD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pfmqZZBvVM5CJN0XKTQy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="pfmqZZBvVM5CJN0XKTQy-45" target="pfmqZZBvVM5CJN0XKTQy-1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +101,17 @@
         </mxCell>
         <mxCell id="pfmqZZBvVM5CJN0XKTQy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="pfmqZZBvVM5CJN0XKTQy-1" target="pfmqZZBvVM5CJN0XKTQy-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;dashed=1;strokeColor=light-dark(#FF0000,#003737);strokeWidth=3;endArrow=none;startFill=0;" edge="1" parent="1" source="pfmqZZBvVM5CJN0XKTQy-70" target="pfmqZZBvVM5CJN0XKTQy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="570" />
+              <mxPoint x="590" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-70" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="99.37" height="62.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
