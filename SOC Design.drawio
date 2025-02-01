@@ -129,6 +129,21 @@
         <mxCell id="pfmqZZBvVM5CJN0XKTQy-134" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/vulnhub.png;" vertex="1" parent="1">
           <mxGeometry x="520.24" y="680" width="174.51" height="92.01" as="geometry" />
         </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-136" value="10.10.30.254&lt;div&gt;DHCP 10.10.30.50-100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.05" y="368.39000000000004" width="139.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-137" value="10.10.1.254&lt;div&gt;DHCP 10.10.1.50-100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642.62" y="368.39000000000004" width="139.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-138" value="10.10.10.254&lt;div&gt;DHCP 10.10.10.50-100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594.78" y="468.88000000000005" width="139.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-139" value="10.10.20.254&lt;div&gt;DHCP 10.10.20.50-100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590.05" y="320.00000000000006" width="139.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfmqZZBvVM5CJN0XKTQy-140" value="Internet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39.70999999999993" y="685" width="139.95" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
